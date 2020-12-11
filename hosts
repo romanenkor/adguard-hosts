@@ -383,6 +383,8 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 track.customer.io
+0.0.0.0 lcs.loginfra.com
 0.0.0.0 stat.tiara
 0.0.0.0 track.tiara
 0.0.0.0 nlog.nethru.io
@@ -420,7 +422,6 @@
 0.0.0.0 collector.appconsent.io
 0.0.0.0 tracker.durasite.net
 0.0.0.0 logs.juspay.i
-0.0.0.0 rtb.connatix.com
 0.0.0.0 trk.connatix.com
 0.0.0.0 tr.connatix.com
 0.0.0.0 log.cizion.com
@@ -512,7 +513,6 @@
 0.0.0.0 pi.a42.r
 0.0.0.0 rcounter.rambler.ru
 0.0.0.0 rva.outbrain.com
-0.0.0.0 singleice.link
 0.0.0.0 sitestat.com
 0.0.0.0 snowplow-collector.sugarops.com
 0.0.0.0 sv.ltzvs.ru
@@ -591,6 +591,8 @@
 0.0.0.0 collection-endpoint-prod.herokuapp.com
 0.0.0.0 collection-endpoint-staging.herokuapp.com
 0.0.0.0 telemetry.mozilla.org
+0.0.0.0 gak.webtoons.com
+0.0.0.0 s.news.naver.com
 0.0.0.0 jtrackern.joins.com
 0.0.0.0 analytics.cinematoday.jp
 0.0.0.0 log.cinematoday.jp
